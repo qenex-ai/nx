@@ -44,7 +44,7 @@
     "@nx/web": "workspace:*",
     "@nx/module-federation": "workspace:*",
     "@nx/rollup": "workspace:*",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "http-proxy-middleware": "^3.0.5",
     "semver": "catalog:"
   },
