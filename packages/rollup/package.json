@@ -41,7 +41,7 @@
     "picocolors": "catalog:",
     "picomatch": "catalog:",
     "postcss": "^8.4.38",
-    "rollup": "^4.14.0",
+    "rollup": "^4.59.0",
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-typescript2": "^0.36.0",
     "tslib": "catalog:typescript"
