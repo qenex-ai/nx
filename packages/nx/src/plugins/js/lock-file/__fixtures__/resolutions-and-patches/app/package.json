@@ -73,7 +73,7 @@
     "tua-body-scroll-lock": "1.5.3",
     "typescript": "5.4.2",
     "universal-cookie": "4.0.4",
-    "url-parse": "1.5.3",
+    "url-parse": "1.5.9",
     "uuid": "8.3.2"
   },
   "packageManager": "yarn@4.6.0",
