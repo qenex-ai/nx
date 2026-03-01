@@ -65,7 +65,7 @@
     "redux": "^4.2.1",
     "rimraf": "6.0.1",
     "rxjs": "^7.8.1",
-    "semver": "7.5.3",
+    "semver": "7.7.4",
     "sockjs-client": "1.6.1",
     "style-dictionary": "^4.0.1",
     "style-dictionary-utils": "^3.1.1",
@@ -73,7 +73,7 @@
     "tslib": "^2.3.0",
     "tua-body-scroll-lock": "^1.2.1",
     "universal-cookie": "^4.0.4",
-    "url-parse": "1.5.3"
+    "url-parse": "1.5.9"
   },
   "devDependencies": {
     "@apollo/client": "^3.10.8",
@@ -237,7 +237,7 @@
     "sass": "1.62.1",
     "sass-loader": "^13.2.1",
     "slugify": "^1.6.5",
-    "storybook": "^8.4.5",
+    "storybook": "^10.2.13",
     "storybook-dark-mode": "^4.0.2",
     "storybook-design-token": "^3.1.0",
     "stylelint": "^15.3.0",
